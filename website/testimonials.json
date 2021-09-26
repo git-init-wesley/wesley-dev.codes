@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Boisdenghien Sylvie",
+    "comment": "Très prometteur.",
+    "image": "https://raw.githubusercontent.com/kanekireal/wesley-dev.codes/main/website/testimonials/testimonials-boisdenghien_sylvie.jpg",
+    "anonyme": false
+  },
+  {
+    "fullName": "Privot Damien",
+    "comment": "Un vraiment bon développeur, rapide, efficace, travail propre et vraiment bien optimisé, une personne souriante et sympathique, je le recommande à tous ceux qui liront mon avis.",
+    "image": "assets/img/testimonials/testimonials-ano.jpg",
+    "anonyme": false
+  },
+  {
+    "fullName": "**** ******",
+    "comment": "Un bon développeur qui mérite d’être reconnu, qui manque de confiance en soi et c’est vraiment dommage.",
+    "image": "assets/img/testimonials/testimonials-ano.jpg",
+    "anonyme": true
+  },
+  {
+    "fullName": "Levasseur Hélène",
+    "comment": "Bon développeur, rapide, précis, minutieux, impliqué, avec l'envie d'aller au bout de ses projets. Je recommande.",
+    "image": "assets/img/testimonials/testimonials-ano.jpg",
+    "anonyme": false
+  },
+  {
+    "fullName": "Duret Lola",
+    "comment": "Une personne très professionel, qui se montre très productive et motivée quand elle en a envie et que le projet est intéressant. Un très bon développeur.",
+    "image": "https://raw.githubusercontent.com/kanekireal/wesley-dev.codes/main/website/testimonials/testimonials-duret_lola.jpg",
+    "anonyme": false
+  }
+]

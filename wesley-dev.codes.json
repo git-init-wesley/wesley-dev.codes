@@ -1,0 +1,11 @@
+{
+  "calandar": "2014",
+  "name": "wesley-dev.codes",
+  "description": "wesley-dev.codes is a dynamic website, this repo contains the public components of the site.",
+  "url": "https://github.com/kanekireal/wesley-dev.codes",
+  "author": "Wesley Levasseur",
+  "authorUrl": "ttps://github.com/kanekireal",
+  "background": "https://raw.githubusercontent.com/kanekireal/wesley-dev.codes/main/background.png",
+  "version": "3.0.0",
+  "language": "web"
+}
